@@ -4,7 +4,7 @@
 
 ### Outline
 
-- What are Class-Based Views?
+- [What are Class-Based Views?](https://github.com/andela/python-tutorials/tree/master/tutorial-2#what-are-class-based-views)
 - Use Case: ListView
 - Use Case: TemplateView
 - Use Case: FormView
